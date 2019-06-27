@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
                  name="Stack-Search",
-                 version="1.0.0",
+                 version="1.0.1",
                  author="Saran Goda",
                  author_email="godasaran@gmail.com",
                  description="An advanced exception handler that searches your exception in Stack Overflow",
