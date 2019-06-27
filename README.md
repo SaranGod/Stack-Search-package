@@ -6,4 +6,4 @@ Exceptions are generally unwanted and unexpected. So you need to make a habit of
 ## How to install:
 pip install stack-search
 ## For example code:
-https://github.com/SaranGod/Stack-Search-package
+example.py
